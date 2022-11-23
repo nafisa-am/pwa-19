@@ -32,13 +32,15 @@ SO THAT I can reliably retrieve them for later use
 
 <img width="1440" alt="Screenshot 2022-11-22 at 23 21 42" src="https://user-images.githubusercontent.com/108237958/203448299-8411bc92-130f-4ef2-9d20-4d10571593dc.png">
 
+<img width="629" alt="Screenshot 2022-11-23 at 22 38 04" src="https://user-images.githubusercontent.com/108237958/203657845-2bb423ae-c592-471b-ad09-18fc126bf019.png">
+
 
 
 ### Links 
 
-- Github Link - 
+- Github Link - https://github.com/nafisa-am/pwa-19
 
-- Deployed Link - 
+- Deployed Link - https://shrouded-spire-17125.herokuapp.com
 
 
 ### Questions 
